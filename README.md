@@ -1,3 +1,9 @@
+---
+title: Digital_Twin
+app_file: main.py
+sdk: gradio
+sdk_version: 5.44.1
+---
 # 🤖 Digital Twin — Agent IA Personnel
 
 > Un jumeau numérique propulsé par GPT-4o-mini qui répond à ta place, capture les contacts et te notifie en temps réel.
@@ -24,7 +30,7 @@ Ce projet est un **agent IA personnel** qui joue le rôle de ton représentant n
 
 ```
 digital-twin/
-├── main.py              # Point d'entrée
+├── app.py              # Point d'entrée
 ├── chat.py              # Interface Gradio
 ├── agent.py             # Logique agent + tools
 ├── system_prompt.py     # Prompt système
