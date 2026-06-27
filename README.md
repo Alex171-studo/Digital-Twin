@@ -12,7 +12,7 @@ pinned: false
 
 > Un jumeau numérique propulsé par GPT-4o-mini qui répond à ta place, capture les contacts et te notifie en temps réel.
 
-**Démo live :** [godwill-digital-twin.hf.space](https://huggingface.co/spaces/TON_USERNAME/digital-twin) 
+**Démo live :** [godwill-digital-twin.hf.space](https://huggingface.co/spaces/Alexis171/Digital_Twin) 
 
 ---
 
