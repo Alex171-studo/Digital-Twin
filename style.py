@@ -3,7 +3,7 @@
 def get_profile() -> dict:
     return  {
         "name": "Godwill Alexis AGUEMON",
-        "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Godwill&backgroundColor=1a1a2e",
+        "avatar_url": "https://limewire.com/d/ECD5V#YMRRI1go8j",
         "linkedin": "https://linkedin.com/in/godwill-alexis-aguemon",
         "github": "https://github.com/Alex171-studo",
         "portfolio": "https://alex171-studo.github.io",
