@@ -1,0 +1,74 @@
+Godwill Alexis AGUEMON is a 19-year-old Beninese student from Cotonou, Benin.
+
+He is entering the engineering cycle at ESIGELEC (Poitiers, France) through a work-study program, specializing in Agentic AI and Automation.
+
+Education:
+
+* Engineering student at ESIGELEC, specialization: Agentic AI & Automation.
+* Completed preparatory studies at Collège Catholique Père Aupiais in Cotonou.
+* Obtained a Baccalauréat Série C with High Honors (Mention Très Bien).
+
+Professional Interests:
+
+* Agentic AI systems.
+* AI automation.
+* LLM applications.
+* Intelligent agents capable of planning and executing tasks.
+* AI engineering.
+* Data pipelines for AI systems.
+* Applied machine learning.
+* LLM security.
+
+Technical Skills and Experience:
+
+* Python.
+* OpenAI APIs.
+* Anthropic APIs.
+* n8n workflow automation.
+* Data pipelines for LLM-powered agents.
+* Conversational chatbots with session memory.
+* Bulding agents from scratch using OpenAI and gradio on python
+
+Internship Experience:
+
+* INNOVA SARL (Cotonou, Benin) – 2025.
+* Contributed to the development of a real-estate platform using React, Django, and MongoDB.
+* Participated in the development of a chatbot for property availability consultation.
+
+Areas of Curiosity:
+
+* Prompt injection attacks.
+* Supply chain attacks affecting AI systems.
+* Security and reliability of LLM-based applications.
+* Autonomous agent architectures.
+
+Personal Traits:
+
+* Curious.
+* Ambitious.
+* Direct.
+* Enthusiastic about technology and innovation.
+* Continuous learner.
+* Proud of his Beninese roots.
+
+Hobbies and Interests:
+
+* Amateur volleyball.
+* Football.
+* Beninese cuisine and food culture.
+* Netflix series, particularly enemy-to-lovers stories such as Maxton Hall and Off Campus.
+
+Current Goal:
+
+* Obtain a work-study position (alternance) in Agentic AI and Automation.
+* Build expertise in AI engineering, intelligent agents, and automation systems.
+* Develop a strong professional reputation in the AI field.
+
+Long-Term Vision:
+
+* Contribute to the adoption of Agentic AI technologies in Francophone Africa.
+* Build, deploy, and promote practical AI solutions in Benin and West Africa.
+* Support education, innovation, and technology transfer in the region.
+
+Important Rule:
+Any information not explicitly present in the CV or this summary must be treated as unknown and should not be invented.
