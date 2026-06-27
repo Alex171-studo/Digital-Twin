@@ -34,14 +34,14 @@ Ce projet est un **agent IA personnel** qui joue le rôle de ton représentant n
 
 ```
 digital-twin/
-├── app.py              # Point d'entrée
+├── app.py               # Point d'entrée
 ├── chat.py              # Interface Gradio
 ├── agent.py             # Logique agent + tools
 ├── system_prompt.py     # Prompt système
 ├── style.py             # UI (CSS, HTML, profil)
-├── cv.pdf               # Ton CV (non versionné)
+├── cv.pdf               # Ton CV 
 ├── summary.txt          # Ton résumé personnel
-├── .env                 # Clés API (non versionné)
+├── .env                 # Clés API 
 ├── pyproject.toml       # Dépendances (uv)
 └── README.md
 ```
@@ -76,12 +76,12 @@ Le résumé doit contenir : ta formation, tes compétences, tes expériences, te
 ### 4. Lance
 
 ```bash
-uv run main.py
+uv run app.py
 ```
 
 ---
 
-## 🎯 Guide — Adapte-le à TON profil
+## 🎯 Guide pour adapter à son profil
 
 Tu veux utiliser ce projet pour **ton propre site ou portfolio** ? C'est exactement fait pour ça.
 
@@ -201,7 +201,7 @@ Contexte: Recruteur intéressé par un contrat d'alternance en IA.
 ## 👤 Auteur
 
 **Godwill Alexis AGUEMON**
-Alternant Cycle Ingénieur — Agentic AI & Automation — ESIGELEC
+Etudiant en première année de  cycle Ingénieur à la recherche d'une alternance en Agentic AI & èè-²isation — ESIGELEC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Godwill-blue)](https://linkedin.com/in/godwill-alexis-aguemon)
 [![GitHub](https://img.shields.io/badge/GitHub-Alex171--studo-black)](https://github.com/Alex171-studo)
