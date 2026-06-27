@@ -247,6 +247,6 @@ def get_initial_message():
     return [
         {
             "role": "assistant",
-            "content": "Salut ! 👋 Je suis **Godwill Alexis AGUEMON**, alternant en 1ère année de cycle ingénieur à l'ESIGELEC, passionné par l'IA agentique et l'automatisation.\n\nPose-moi une question — sur mes projets, mes skills, ou si tu veux collaborer ! 🚀"
+            "content": "Salut ! 👋 Je suis **Godwill Alexis AGUEMON**,je suis en 1ère année de cycle ingénieur à l'ESIGELEC à la recherche d'une alternance et  passionné par l'IA agentique et l'automatisation.\n\nPose-moi une question — sur mes projets, mes skills, ou si tu veux collaborer ! 🚀"
         }
     ]

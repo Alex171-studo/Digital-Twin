@@ -11,7 +11,6 @@ HEADER_HTML = get_header_html()
 INITIAL_MESSAGE = get_initial_message()
 FOOTER_HTML = get_footer_html()
 
-# Favicon : même avatar DiceBear que le chat, encodé en SVG data-URI
 FAVICON_URL = PROFILE["avatar_url"]
 
 
