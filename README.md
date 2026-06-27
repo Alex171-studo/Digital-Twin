@@ -43,7 +43,7 @@ digital-twin/
 ### 1. Clone et installe
 
 ```bash
-git clone https://github.com/TON_USERNAME/digital-twin
+git clone https://github.com/Alex171-studo/Digital-Twin
 cd digital-twin
 uv sync
 ```
