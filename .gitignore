@@ -12,3 +12,4 @@ wheels/
 # Environment variables
 .envuv.lock
 .hfignore
+.env
