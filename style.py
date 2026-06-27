@@ -3,8 +3,8 @@
 def get_profile() -> dict:
     return  {
         "name": "Godwill Alexis AGUEMON",
-        "avatar_url": "https://limewire.com/d/ECD5V#YMRRI1go8j",
-        "linkedin": "https://linkedin.com/in/godwill-alexis-aguemon",
+        "avatar_url": "https://i.ibb.co/KxMWfRTH/photo.png",
+        "linkedin": "https://www.linkedin.com/in/godwill-alexis-aguemon-51a38436a/",
         "github": "https://github.com/Alex171-studo",
         "portfolio": "https://alex171-studo.github.io",
         "email": "godwillaguemonbg@gmail.com",
@@ -237,7 +237,7 @@ def get_header_html() -> str:
 def get_footer_html():
     return """
     <div class="footer-bar">
-        Propulsé par <span>GPT-4o-mini</span> · Conçu par <span>Godwill A.</span> · 2025
+        Propulsé par <span>GPT-4o-mini</span> · Conçu par <span>Godwill A.</span> · 2026
     </div>
     """
 
